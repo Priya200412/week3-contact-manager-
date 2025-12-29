@@ -1,0 +1,16 @@
+{
+    "priya": {
+        "phone": "1234567890",
+        "email": "priya@gmail.com",
+        "group": "work",
+        "created_at": "2025-12-29T14:15:43.959310",
+        "updated_at": "2025-12-29T14:15:43.959310"
+    },
+    "arjun": {
+        "phone": "3451943602",
+        "email": "arjun@gmail.com",
+        "group": "family",
+        "created_at": "2025-12-29T14:16:43.245722",
+        "updated_at": "2025-12-29T14:16:43.245722"
+    }
+}
